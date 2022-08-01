@@ -3,7 +3,6 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheesh-cpu&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=nitheesh-cpu&theme=darcula&hide_border=true&background=FFFFFF00">
   <br/>
-  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
