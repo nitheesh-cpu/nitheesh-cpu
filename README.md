@@ -1,9 +1,8 @@
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=nitheesh-cpu&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=302c34">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheesh-cpu&layout=compact&hide_border=true&theme=darcula&bg_color=302c34&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitheesh-cpu&theme=darcula&hide_border=true&background=302c34">
-
-  <img src=https://activity-graph.herokuapp.com/graph?username=nitheesh-cpu&theme=react">
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=nitheesh-cpu&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheesh-cpu&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=nitheesh-cpu&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://activity-graph.herokuapp.com/graph?username=nitheesh-cpu&theme=react">
   <br/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
@@ -26,5 +25,4 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-
-
+</p>
