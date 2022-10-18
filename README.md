@@ -3,7 +3,7 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheesh-cpu&layout=compact&hide_border=true&theme=darcula&bg_color=302c34&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=nitheesh-cpu&theme=darcula&hide_border=true&background=302c34">
 </p>
-  ![nitheesh-cpu's github activity graph](https://activity-graph.herokuapp.com/graph?username=nitheesh-cpu&theme=react)
+![nitheesh-cpu's github activity graph](https://activity-graph.herokuapp.com/graph?username=nitheesh-cpu&theme=react)
 <p>
   <br/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
