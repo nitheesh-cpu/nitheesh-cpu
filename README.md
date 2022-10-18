@@ -1,5 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&lines=hi+%F0%9F%91%8B;welcome+to+my+profile;check+out+some+of+my+projects...;star+and+follow+(if+you+want);thank+you!" />
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nitheesh-cpu?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  <img alt="views" title="Views" src="https://komarev.com/ghpvc/?username=nitheesh-cpu&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/nitheesh-cpu?label=Stars&style=for-the-badge" alt="stars">
+  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=nitheesh-cpu&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs&bg_color=282C34">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheesh-cpu&layout=compact&hide_border=true&theme=nord&bg_color=282C34&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=nitheesh-cpu&theme=nord&hide_border=true&background=282C34">
