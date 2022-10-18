@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&lines=hi+%F0%9F%91%8B;welcome+to+my+profile;check+out+some+of+my+projects...;star+and+follow+(if+you+want);thank+you!" />
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=nitheesh-cpu&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs&bg_color=282C34">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheesh-cpu&layout=compact&hide_border=true&theme=nord&bg_color=282C34&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=nitheesh-cpu&theme=nord&hide_border=true&background=282C34">
